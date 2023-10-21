@@ -1,5 +1,5 @@
 # magal
-Hi! my name is Magal and I'm a certified AWS Solution Architect, Full stack Web Developer specialising in Online Payments and Search Engine Optimisation, with a particular interest in standard-compliant, well-engineered, accessible and engaging sites.
+Hi! my name is Magal and I'm a certified AWS Solutions Architect, Full stack Web Developer specialising in Online Payments and Search Engine Optimisation, with a particular interest in standard-compliant, well-engineered, accessible and engaging sites.
 
 I am experienced in user-friendly web interfaces developed to the highest W3C standards. 
 
