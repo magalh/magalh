@@ -2,7 +2,7 @@
 
 🌩️ **AWS Certified Solutions Architect – Associate**  
 🧠 **AWS Certified AI Practitioner**  
-👥 Member of the [CMS Made Simple Development Team](https://www.cmsmadesimple.org/about/team)
+👥 Member of the [CMS Made Simple Development Team](https://www.cmsmadesimple.org/about/team)  
 💻 **Full-Stack Web Developer & Cloud Solutions Consultant**
 
 ---
@@ -25,7 +25,7 @@ With a background spanning **web development, e-commerce, and SEO**, and hands-o
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🏗️ **3-Tier WordPress on AWS** | Secure 3-tier architecture using VPC, EC2, RDS, and CloudFront for scalability. | AWS EC2, RDS, CloudFormation |
+| 🏗️ **3-Tier WordPress on AWS** | Secure 3-tier architecture using VPC, EC2, RDS, and CloudFront for scalability. | AWS EC2, RDS, EFS, S3 |
 | 🤖 **AI Code Knowledge Chatbot** | Converts PHP files to Markdown and uses Bedrock + Pinecone for semantic Q&A. | Python, AWS Bedrock, Pinecone |
 | 🔐 **AWS Cognito Plugin (CMS Made Simple)** | OAuth2/JWT authentication module integrating Cognito with CMSMS. | PHP, AWS Cognito, IAM |
 | ☁️ **AWS S3 Plugin (CMS Made Simple)** | Adds S3 media management directly to CMS Made Simple. | PHP, AWS SDK, S3, CloudFront |
